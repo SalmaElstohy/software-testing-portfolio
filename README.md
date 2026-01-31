@@ -5,6 +5,6 @@ I didn’t choose software testing just because of a passion for software. I cho
 
 My Experience 
 
-I am currently a junior software tester at Moltaqa Company , where I have contributed to multiple business-driven digital platforms, gaining hands-on experience across various domainsincluding service booking platforms, logistics, marketplaces, and admin dashboards, where I was responsible for verifying functionalities, ensuring smooth operations, and reporting any defects. This experience has strengthened my interest in the QA path and enhanced my ability to understand different business processes.
+I am currently a junior software tester at Moltaqa Company , where I have contributed to multiple business-driven digital platforms, gaining hands-on experience across various domains including service booking platforms, logistics, marketplaces, and admin dashboards, where I was responsible for verifying functionalities, ensuring smooth operations, and reporting any defects. This experience has strengthened my interest in the QA path and enhanced my ability to understand different business processes.
 
 
