@@ -1,2 +1,2 @@
-# software-testing-portfolio
+# software Testing Portfolio
 Portfolio of Manual Software Testing projects
