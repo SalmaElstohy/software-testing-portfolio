@@ -1,5 +1,5 @@
 # Software Testing Portfolio
 # About Me
 
-I chose software testing because it matches my analytical mindset and attention to detail. I have experience testing systems across E-commerce, Booking, and Logistics domains. I focus on identifying real defects, validating business flows, and ensuring system reliability through structured testing, clear bug reporting, and effective communication. I take ownership of my work and deliver accurate, reliable results in every project.
+I didn’t choose software testing just because of a passion for software. I chose it because it fits my analytical mindset and attention to detail. Through my experience, I’ve worked on testing systems across different business domains, including E-commerce, Booking, and Logistics. I focus on identifying real defects, validating business flows, and ensuring system reliability through structured testing, clear bug reporting, and effective communication. I’m committed to accuracy, responsibility, and continuously improving my testing skills to deliver quality results.
 
