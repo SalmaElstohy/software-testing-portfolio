@@ -53,8 +53,6 @@ Bug Reports – Professional bug reports with clear steps and expected results
 
 API Testing – Postman collections and API test cases
 
-Test Scenarios – Scenarios derived from user stories
-
 
 
 ---
