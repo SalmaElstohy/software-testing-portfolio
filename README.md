@@ -1,10 +1,76 @@
-# Software Testing Portfolio
-# About Me
+QC / Manual & API Testing Portfolio
 
-I didn’t choose software testing just because of a passion for software. I chose it because it fits my analytical mindset and attention to detail. Through my experience, I’ve worked on testing systems across different business domains, including E-commerce, Booking, and Logistics. I focus on identifying real defects, validating business flows, and ensuring system reliability through structured testing, clear bug reporting, and effective communication. I’m committed to accuracy, responsibility, and continuously improving my testing skills to deliver quality results.
+About Me
 
-My Experience 
+My name is Salma Elstohy, a Junior Quality Control Engineer with hands-on experience in Manual Testing and API Testing. I am currently working on real projects and focused on delivering high-quality software through structured testing processes.
 
-I am currently a junior software tester at Moltaqa Company , where I have contributed to multiple business-driven digital platforms, gaining hands-on experience across various domains including service booking platforms, logistics, marketplaces, and admin dashboards, where I was responsible for verifying functionalities, ensuring smooth operations, and reporting any defects. This experience has strengthened my interest in the QA path and enhanced my ability to understand different business processes.
+I have a strong understanding of SDLC and STLC, and I am continuously improving my testing skills through practice and self-study.
 
+
+---
+
+ Technical Skills
+
+Manual Testing (Functional, Regression, Smoke)
+
+API Testing using Postman
+
+Test Case Design & Execution
+
+Bug Reporting & Tracking
+
+Test Scenarios & User Stories
+
+Basic Agile / Scrum knowledge
+
+Understanding of SDLC & STLC
+
+
+
+---
+
+🧪 Tools
+
+Postman
+
+Jira
+
+GitHub
+
+Excel / Google Sheets
+
+
+
+---
+
+ Portfolio Content
+
+This repository contains:
+
+Test Cases – Well-structured test cases in Excel format
+
+Bug Reports – Professional bug reports with clear steps and expected results
+
+API Testing – Postman collections and API test cases
+
+Test Scenarios – Scenarios derived from user stories
+
+
+
+---
+
+📜 Certifications
+
+ISTQB Foundation Level – Currently Studying
+
+
+
+---
+
+🎯 Career Objective
+
+To grow as a Quality Control Engineer and contribute to improving software quality by identifying issues early, ensuring system reliability, and enhancing user experience.
+
+
+---
 
